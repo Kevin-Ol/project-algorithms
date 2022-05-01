@@ -18,7 +18,7 @@ Possuir Python instalado
 1. Clone o repositório
   * `git@github.com:Kevin-Ol/project-algorithms.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd project-tech-news`
+    * `cd project-tech-algorithms`
 
 2. Inicie e ative um ambiente virtual
   * `python3 -m venv .venv && source .venv/bin/activate`
